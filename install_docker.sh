@@ -2,7 +2,6 @@
 
 # This script installs the latest version of Docker from the official Docker repository,  
 # ensuring you get the most up-to-date and stable release.  
-# It also adds the current user to the Docker group for easier access.  
 
 # Usage:  
 # 1. Ensure you are running Ubuntu (20.04, 22.04, or later).  
